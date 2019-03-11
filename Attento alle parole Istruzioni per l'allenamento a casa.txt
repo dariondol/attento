@@ -1,0 +1,40 @@
+BREVE PRESENTAZIONE DEL PROGETTO ATTENTO ALLE PAROLE!
+
+L’attenzione è alla base di molte competenze implicate nell’apprendimento. Ad esempio, per imparare a leggere, a scrivere, a studiare occorre essere capaci di stare attenti a ciò che l’insegnante dice, serve anche mantenere l’attenzione nel tempo e quindi saper distinguere fra le cose importanti e le cose meno importanti. Queste competenze legate all’attenzione si acquisiscono nel tempo (è noto che man mano che i bambini crescono, migliorano le loro capacità attentive). La ricerca scientifica ha inoltre dimostrato che è possibile migliorare le capacità attentive dell’individuo con un allenamento costante e graduale, proprio come si allenano le capacità fisiche. Questo protocollo di allenamento vuole allenare i processi di base dell’attenzione e quelli coinvolti nella lettura per migliorare le capacità di apprendimento.
+Gli obiettivi dell’allenamento sono:
+- Migliorare le capacità di allerta (capacità di rispondere velocemente a stimoli visivi e uditivi);
+- Migliorare il controllo del focus attentivo (migliorando le capacità di esplorazione dello spazio si intende allargare il fuoco dell’attenzione);
+- Migliorare le capacità di inibire i distrattori (in contesti complessi occorre essere capaci di distogliere l’attenzione da stimoli irrilevanti, non informativi per concentrarsi sugli stimoli importanti);
+- Migliorare le capacità di riconoscimento visivo dei simboli, dei grafemi e della parola.
+Procedura
+L’allenamento avviene in 4 settimane e può essere ripetuto per ulteriori 4 settimane. Ogni settimana sono previsti 4 giorni di esercizi. Ogni giorno sono proposte diverse attività che devono essere svolte nell’ordine proposto. I giorni di allenamento possono essere decisi liberamente, anche settimana per settimana. L’importante è svolgere tutte le attività ogni settimana.
+Le attività sono di breve durata, possono essere fatte delle pause fra una attività e l’altra. Ogni attività deve essere svolta con impegno. I risultati di ogni prova vengono registrati per valutare i miglioramenti. Sono previsti per la maggior parte delle attività dei commenti che indicano se l’esercizio è svolto correttamente o se vi sono degli errori.
+Ogni attività richiede l’installazione di un programma a computer “pxlab” che gestisce gli esercizi. La maggior parte degli esercizi richiedono l’utilizzo del mouse. Per far funzionare pxlab occorre che sul computer sia installato Java. Per installarlo basta fare il download dal seguente indirizzo: https://java.com/it/download/
+I passaggi per svolgere le attività sono i seguenti:
+1. Aprire pxlab
+2. Aprire la cartella esercizi 
+3. Aprire la cartella settimana e quindi quella del giorno rispettando la sequenza
+4. Aprire l’esercizio ed eseguirlo.
+5. Procedere con l’esercizio successivo
+Di seguito sono riportati per ogni giorno gli esercizi da eseguire.
+Si ricorda di aprire sempre per esteso la finestra di esecuzione degli esercizi, cliccando sul quadrato in alto a sinistra dello schermo.
+Per valutare gli effetti dell’allenamento sarà possibile chiedere un appuntamento al seguente indirizzo: mariagrazia.benassi@unibo.it o sara.giovagnoli@unibo.it. In caso di problemi contattare Mariagrazia Benassi al num 3356593601 o Sara Giovagnoli al numero 3385888716.
+
+CALENDARIO
+Per non dimenticarti gli esercizi di allenamento, STAMPA IL CALENDARIO e fai un segno di spunta sulla faccina ogni volta che fai l’esercizio per dire quanto ti è piaciuto l’esercizio!! Buon divertimento!! 
+
+I FASE: ALLENAMENTO
+I settimana 
+Giorno 1Giorno 2Giorno 3Giorno 4Esercizio 1 ?????Esercizio 12 ?????Esercizio 22 ?????Esercizio 33 ?????Esercizio 2 ?????Esercizio 13 ?????Esercizio 23 ?????Esercizio 34 ?????Esercizio 3 ?????Esercizio 14 ?????Esercizio 24 ?????Esercizio 35 ?????Esercizio 4 ?????Esercizio 15 ?????Esercizio 25 ?????Esercizio 36 ?????Esercizio 5 ?????Esercizio 16 ?????Esercizio 26 ?????Esercizio 37 ?????Esercizio 6 ?????Esercizio 17 ?????Esercizio 27 ?????Esercizio 38 ?????Esercizio 7 ?????Esercizio 21 ?????Esercizio 28 ?????Esercizio 42 ?????Esercizio 11 ?????Esercizio 32 ?????
+II settimana
+Giorno 1Giorno 2Giorno 3Giorno 4Esercizio 46 ?????Esercizio 57 ?????Esercizio 68 ?????Esercizio 77 ?????Esercizio 48 ?????Esercizio 59 ?????Esercizio 69 ?????Esercizio 78 ?????Esercizio 50 ?????Esercizio 60 ?????Esercizio 70 ?????Esercizio 79 ?????Esercizio 51 ?????Esercizio 61 ?????Esercizio 71 ?????Esercizio 80 ?????Esercizio 52 ?????Esercizio 62 ?????Esercizio 72 ?????Esercizio 81 ?????Esercizio 53 ?????Esercizio 63 ?????Esercizio 73 ?????Esercizio 82 ?????
+
+III settimana
+Giorno 1Giorno 2Giorno 3Giorno 4Esercizio 83 ?????Esercizio 97 ?????Esercizio 109 ?????Esercizio 121 ?????Esercizio 84 ?????Esercizio 98 ?????Esercizio 110 ?????Esercizio 122 ?????Esercizio 85 ?????Esercizio 99 ?????Esercizio 111 ?????Esercizio 123 ?????Esercizio 86 ?????Esercizio 101 ?????Esercizio 112 ?????Esercizio 125 ?????Esercizio 91 ?????Esercizio 105?????Esercizio 118 ?????Esercizio 129 ?????Esercizio 92?????Esercizio 107 ?????Esercizio 119 ?????Esercizio 130 ?????
+IV settimana
+Giorno 1Giorno 2Giorno 3Giorno 4Esercizio 133 ?????Esercizio 147 ?????Esercizio 159 ?????Esercizio 171 ?????Esercizio 134 ?????Esercizio 148 ?????Esercizio 160 ?????Esercizio 172 ?????Esercizio 135 ?????Esercizio 149 ?????Esercizio 161 ?????Esercizio 173 ?????Esercizio 137 ?????Esercizio 151 ?????Esercizio 165 ?????Esercizio 175 ?????Esercizio 141 ?????Esercizio 156 ?????Esercizio 167 ?????Esercizio 180?????Esercizio 142 ?????Esercizio 157 ?????Esercizio 168 ?????Esercizio 181 ?????
+Segna qui sotto SE E quando hai fatto delle pausa
+
+1
+
+
